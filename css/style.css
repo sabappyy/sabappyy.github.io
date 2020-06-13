@@ -1283,7 +1283,10 @@ h3 {
 
 /* line 4, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/banner/banner1.png);
+  background-image: url(../img/banner/banner2.png);
+}
+.slider_bg_3 {
+  background-image: url(../img/banner/banner3.png);
 }
 
 /* line 8, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_slider.scss */
@@ -2042,7 +2045,7 @@ h3 {
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 17, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_instagram.scss */
   .instragram_area .single_instagram {
-    width: 50%;
+    width: 15%;
   }
 }
 
@@ -2463,6 +2466,10 @@ h3 {
 /* line 10, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_bradcam.scss */
 .breadcam_bg_4 {
   background-image: url(../img/banner/bradcam_4.png);
+}
+
+.breadcam_bg_5{
+    background-image: url(../img/banner/bradcam_5.png);
 }
 
 /* line 13, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_bradcam.scss */
